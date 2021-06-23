@@ -1,0 +1,21 @@
+{
+    "name": "paisanos-theme",
+    "displayName": "paisanos-theme",
+    "description": "Un tema increible para un team increible ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Paisanos Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Paisanos Theme-color-theme.json"
+            }
+        ]
+    }
+}
